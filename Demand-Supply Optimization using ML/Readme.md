@@ -89,7 +89,7 @@ Demand-Forecasting-Project/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/demand-forecasting-project.git
+git clone https://github.com/Sagar7758/Data-Science-ML-AI-Projects.git
 cd demand-forecasting-project
 ```
 
